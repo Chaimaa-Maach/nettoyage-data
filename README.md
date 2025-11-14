@@ -13,11 +13,11 @@
 
 ##  Contenu
 Le projet fournit :  
-1. **Fichier Power BI complet** `rapport_team_SC.pbix`  qui contient :
+1. **Fichier Power BI complet** Nettoyage, exploration et visualisation de données de ventes retail.pbix  qui contient :
    - Deux pages de rapport : Direction / Marketing  
    - Visualisations interactives et KPI cohérents avec les points de vue métiers
 
-2. **Documentation complète** : doc_rapp_SC.md qui contient :
+2. **Documentation complète** : Readme.md qui contient :
    - Journal de bord : Visualiser notre suivi quotidien du projet 
    - Tableau des transformations : liste des modifications apportées au dataset (data cleaning, colonnes créées, valeurs corrigées)  avec des démonstations par des captures d'écran
    - Liste des mesures DAX avec explications et justification métier
