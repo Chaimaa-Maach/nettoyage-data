@@ -5,7 +5,7 @@
 
 
 ##  Présentation de l'équipe
-- Équipe : Swiching Crawlers  
+
 - Membres : Chaimaa MAACH, Zineb ET-TAHIRI ,Fatima Ezzahrae BABIOUI ,Hassan ISSIL  
 - Organisation : collaboration collective ; chaque membre participe à toutes les étapes et décisions.
 
